@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **cloud computing,Web Development**
 
-- 💬 Ask me about **JAVASCRIPT,C++,PYTHON,CSS3,full-stack-development.**
+- 💬 Ask me about **JAVASCRIPT,C++,PYTHON,CSS3.**
 
 - 📫 How to reach me **jkavita8935@gmail.com**
 

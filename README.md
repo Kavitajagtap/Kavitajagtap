@@ -17,10 +17,6 @@
 <p align="left">
 <a href="https://twitter.com/kavitajagtap12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kavitajagtap12" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kavita-jagtap-7260381a2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kavita-jagtap-7260381a2" height="30" width="40" /></a>
-<a href="https://fb.com/kavita.jagtap.142240" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kavita.jagtap.142240" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/kavita_8935" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gayatri0_1" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jkavita8935" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="jkavita8935" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/jkavita8935" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="jkavita8935" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

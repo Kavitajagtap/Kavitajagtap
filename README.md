@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **JAVASCRIPT,C++,PYTHON,CSS3.**
 
-- 📫 How to reach me **jkavita8935@gmail.com**
+- 📫 How to reach me **kavitavjagtap09@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
